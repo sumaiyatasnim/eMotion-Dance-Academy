@@ -14,9 +14,9 @@ const Home = () => {
     return (
         <div className="container-fluid home">
             <div >
-                <h1 className=" pt-5 site-name">eMotion DANCE Academy</h1>
+                <h1 className=" pt-3 site-name">eMotion DANCE Academy</h1>
             </div>
-            <div className="container mt-5">
+            <div className="container mt-3">
                 <Banner></Banner>
             </div>
             <div className="my-4">
