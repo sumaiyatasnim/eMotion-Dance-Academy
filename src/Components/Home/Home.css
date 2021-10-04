@@ -1,3 +1,10 @@
 .home{
     background-color:azure;
 }
+.extra{
+    background-color: rgba(102, 51, 153, 0.329);
+}
+.site-name{
+    color:rgba(0, 0, 139, 0.849);
+    text-shadow:1px solid grey;
+}

@@ -10,10 +10,11 @@ const Services = () => {
     }, [])
     return (
         <div className="mx-4">
-            <div className="row row-cols-3 g-4 mt-4">
+            <div className="row row-cols-3 g-4 mt-3">
                 {
                     classes.map(cls => <Class
-                        cls={cls}>
+                        cls={cls}
+                        key={cls.id}>
 
                     </Class>)
                 }

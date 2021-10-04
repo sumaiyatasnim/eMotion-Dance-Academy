@@ -3,10 +3,10 @@ import './Class.css';
 const Class = (props) => {
     const { style, instructor, classes, price, img } = props.cls
     return (
-        <div className="container ">
+        <div className="container mt-0 class">
 
-            <div className="col rounded-3 ">
-                <div className="card h-100">
+            <div className="col rounded-3 gy-3">
+                <div className="card h-100 mb-3">
                     <img src={img} className="card-img-top class-img" alt="..."></img>
                     <div className="card-body">
                         <h5 className="card-title">Style: {style}</h5>
