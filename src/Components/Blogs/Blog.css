@@ -1,0 +1,8 @@
+.blog{
+    background-image: linear-gradient(
+        140deg, #EADEDB 0%, #BC70A4 50%, #EADEDB 75%);
+}
+.blogs{
+    background-image: linear-gradient(
+        140deg, #1d083a 0%, #2e2044 50%, #000114f1 75%);
+}
