@@ -10,6 +10,9 @@ const Services = () => {
     }, [])
     return (
         <div className="mx-4">
+            <div className="mt-3 text-white bg-secondary py-2">
+                <h2>Our Classes</h2>
+            </div>
             <div className="row row-cols-3 g-4 mt-3">
                 {
                     classes.map(cls => <Class
