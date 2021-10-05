@@ -5,6 +5,21 @@
     background-color: rgba(102, 51, 153, 0.329);
 }
 .site-name{
-    color:rgba(0, 0, 139, 0.849);
+    /* color:rgba(0, 0, 139, 0.849); */
+    font-weight: 700;
+    background: -webkit-linear-gradient(
+45deg, #09009f, #00ff95 80%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     text-shadow:1px solid grey;
+}
+.dance{
+    height: 500px;
+    width: 500px;
+}
+.p{
+    padding-top: 120px;
+}
+.video-sec{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255, 81, 0, 0.575));
 }

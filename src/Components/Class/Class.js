@@ -17,7 +17,7 @@ const Class = (props) => {
                             Classes: {classes}
                         </p>
                         <h6>
-                            Price: {price}
+                            Price: $ {price}
                         </h6>
 
                         <button className="btn-info text-white mt-2">Buy Now</button>
