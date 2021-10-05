@@ -24,3 +24,7 @@
 .video-sec{
     background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255, 81, 0, 0.575));
 }
+.featured-class{
+    color: steelblue;
+    text-decoration:1px solid grey underline;
+}

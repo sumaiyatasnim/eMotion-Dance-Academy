@@ -36,8 +36,8 @@ const Home = () => {
                     </div>
                 </div>
             </div>
-            <div className="my-4">
-                <h3>Our Featured Classes</h3>
+            <div className="my-4 mt-5">
+                <h2 className="featured-class">Our Featured Classes</h2>
             </div>
             <div className="row row-cols-4 home-class ">
                 {
