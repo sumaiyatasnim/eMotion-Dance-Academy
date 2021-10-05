@@ -10,7 +10,7 @@ const Blogs = () => {
     return (
         <div className="container-fluid blogs">
             <div>
-                <h1 className="text-white">Dance Terms, Defined</h1>
+                <h1 className="text-secondary">Dance Terms, Defined</h1>
             </div>
             <div className="row row-cols-1 container-fluid">
                 {

@@ -1,7 +1,7 @@
 .blog{
-    background-color: beige;
+    background-color:white;
 }
+
 .blogs{
-    background-image: linear-gradient(
-        140deg, #1d083a 0%, #2e2044 50%, #000114f1 75%);
+    background-color:rgba(25, 25, 112, 0.219);
 }
