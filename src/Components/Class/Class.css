@@ -4,3 +4,10 @@
 .class{
     background-color: aliceblue;
 }
+.card{
+    background-color:azure ;
+    
+}
+.card:hover{
+    background:rgba(100, 148, 237, 0.185);
+}

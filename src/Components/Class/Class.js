@@ -6,7 +6,7 @@ const Class = (props) => {
         <div className="container mt-0 class">
 
             <div className="col rounded-3 gy-3">
-                <div className="card h-100 mb-3">
+                <div className="card h-100 mb-3 card">
                     <img src={img} className="card-img-top class-img" alt="..."></img>
                     <div className="card-body">
                         <h5 className="card-title">Style: {style}</h5>
@@ -20,7 +20,7 @@ const Class = (props) => {
                             Price: $ {price}
                         </h6>
 
-                        <button className="btn-info text-white mt-2">Buy Now</button>
+                        <button className="btn-info text-white mt-2 px-4 rounded-3 border-0">Enroll Now</button>
                     </div>
                 </div>
             </div>
